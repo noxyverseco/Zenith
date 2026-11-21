@@ -68,7 +68,7 @@ g++ -std=c++17 -O2 -o dupfinder main.cpp
 
 **It looks basic?**
 
-Yeah, because it fucking works. Simple UI. No bullshit. Just works.
+Yeah, because it fucking works. Simple CLI. No bullshit. Just works.
 
 ## Version
 
